@@ -103,6 +103,8 @@ body {
 
 .principal {
     padding: 24px 16px;
+    display: grid;
+    gap:16px;
 }
 
 .titulo-pagina {
@@ -115,6 +117,10 @@ body {
     border-radius: 15px;
     overflow: hidden;
     background-color: #2C343A;
+}
+
+.cartao--destaque {
+    margin-bottom: 16px;
 }
 
 .cartao__conteudo {

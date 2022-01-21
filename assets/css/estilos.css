@@ -100,7 +100,6 @@ body {
 .menu-lateral__link--pinturas::before {
     content: "\e90a";
 }
-
 .principal {
     padding: 24px 16px;
     display: grid;

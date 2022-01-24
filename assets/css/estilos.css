@@ -70,7 +70,7 @@ body {
         justify-self: flex-end;
         color: #95999C;
         padding: 8px 32px;
-        border-right: #95999C;
+        border-right: 1px solid #95999C;
     }
 
     .cabecalho__perfil::before {

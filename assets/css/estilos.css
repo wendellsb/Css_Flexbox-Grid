@@ -310,6 +310,10 @@ body {
         width: 32px;
         grid-row: span 2;
     }
+
+    .cartao__item-titulo {
+        
+    }
 } 
 
 .secao {
